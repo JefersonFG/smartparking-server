@@ -2,7 +2,7 @@
 
 Server for the [Smart Parking project](https://github.com/JefersonFG/smartparking).
 
-Address for requests: TODO
+Address for requests: https://salty-cliffs-90817.herokuapp.com/
 
 # Dependencies
 
